@@ -13,6 +13,6 @@ and all of that, in a very lightweight way.
 
 ---
 
-Please note: This pack is **Java Edition only** and is **only hosted on Modrinth**. If you see it elsewhere, it’s likely not an official version. It is also open-source and available on GitHub, released unlicensed, meaning it's free for anyone to use, modify, and share.
+**Please note:** This mod is Java Edition only and exclusively hosted on [Modrinth](https://modrinth.com/mod/chrissi-nightvision). The source code is available on [GitHub](https://github.com/chrissitxt/chrissi-nightvision) under the Unlicense. If you'd like to get in touch, feel free to join my [Discord server](https://discord.gg/Qdk3TcDv6N).
 
 If you’d like to get in touch, feel free to join my [Discord server](https://discord.gg/Qdk3TcDv6N).
