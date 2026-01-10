@@ -13,4 +13,4 @@ and all of that, in a very lightweight way.
 
 ---
 
-**Please note:** This resource pack is Java Edition only and exclusively hosted on [Modrinth](https://modrinth.com/mod/chrissi-essentials). The source code is available on [GitHub](https://github.com/chrissitxt/chrissi-essentials) under the Unlicense. If you'd like to get in touch, feel free to join my [Discord server](https://discord.gg/Qdk3TcDv6N).
+**Please note:** This resource pack is Java Edition only and exclusively hosted on [Modrinth](https://modrinth.com/mod/chrissi-essentials). The source code is available on [GitHub](https://github.com/chrissitxt/chrissi-essentials). If you'd like to get in touch, feel free to join my [Discord server](https://discord.gg/Qdk3TcDv6N).
