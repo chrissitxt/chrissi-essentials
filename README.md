@@ -1,4 +1,4 @@
-![Banner](https://i.imgur.com/STxzg91.png)
+![Title](https://cdn.modrinth.com/data/cached_images/309c7a3ff5329ac9bf1b247194ff4fb17a523ca8.png)
 
 chrissi's PvP Essentials is a lightweight all-in-one vanilla-like resource pack that includes:
 
